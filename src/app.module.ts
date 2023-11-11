@@ -22,7 +22,7 @@ import { UserRole } from './utility/common/user-roles.enum';
       username: process.env.MYSQL_ADDON_USER,
       password: process.env.MYSQL_ADDON_PASSWORD,
       database: process.env.MYSQL_ADDON_DB,
-      url: 'mysql://uyg1nu5pnhpbne0l:eUsYQqEmOOuXATXAlTzV@bxw5otlshrpdbuhj2kla-mysql.services.clever-cloud.com:3306/bxw5otlshrpdbuhj2kla',
+      url: 'mysql://ua0x6yqnj4ooqqfi:N7V3wcI53VIa9kf2t1wi@b48w1pwlj3kq0dekt3hx-mysql.services.clever-cloud.com:3306/b48w1pwlj3kq0dekt3hx',
       entities: [__dirname + '/**/*.entity{.ts,.js}'],
       synchronize: true, // À des fins de développement uniquement
       autoLoadEntities: true,
