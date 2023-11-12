@@ -6,7 +6,7 @@ import { ValidationPipe } from '@nestjs/common';
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   const config = new DocumentBuilder()
-    .setTitle('Librairie HarkTech')
+    .setTitle('Best Books Store')
     .setDescription(
       'Projet systeme repatis realise parun groupe d`etudiant en L4',
     )
